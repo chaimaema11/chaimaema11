@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chaimaema11
-- 👀 I’m interested in digital marketing 
+- 👀 I’m interested 
 - 🌱 I’m currently learning:
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :mchaimae10@gmail.com
-- 😄 Pronouns: she
+- 📫 How to reach me :
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
